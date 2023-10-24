@@ -22,11 +22,10 @@ global.APIKeys = {
 }
 global.sewabotnya = `
 *SEWA BOT*
--> *Rp6.500/Bulan*
--> *Rp11.500/3 Bulan*
--> *(+Rp 1.500 = biaya admin)
+-> *Rp5.000/Bulan*
+-> *Rp10.000/3 Bulan*
 -> *Req berapa Bulan? Silahkan*
--> *Rp101.500 (boleh cicil, 0% bunga) = selamanya + klo bot ganti nomor ga usah bayar lagi. Kalo owner lupa, kalian bisa chatting ke owner*
+-> *Rp100.000 (boleh cicil, 0% bunga) = selamanya + klo bot ganti nomor ga usah bayar lagi. Kalo owner lupa, kalian bisa chatting ke owner*
 
 *Keuntungan Sewabot*
 -> *Fitur Grup Banyak*
@@ -49,7 +48,7 @@ global.sewabotnya = `
 Minat? Silahkan chat owner ku: WA.me/6285693460387?
 
 Note: Jika .menu error, silahkan ketik .allmenu
-Jangan lupa join grup bot: https://bit.ly/MAJAPAHIT_EMPIRE
+Jangan lupa join grup bot: https://s.id/Japan_Empire
 `
 // setting 
 global.firtsChat = true //send firts message to new user
@@ -82,8 +81,8 @@ global.language = indonesia //change indonesia to english if you don't understan
 
 // Other
 // Other
-global.botname = "Terizlaོ" //namabot kalian
-global.ownername = "ᴹᴿ᭄Lemon Teaོ ×፝֟͜×" //nama kalian
+global.botname = "Haryati oshi gw" //namabot kalian
+global.ownername = "ᴹᴿ᭄Fans JKT48" //nama kalian
 global.myweb = "https://bit.ly/MAJAPAHIT_EMPIRE" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/@gataukoktanyagw549" //bebas asal jan hapus
 global.myweb2 = "https://saweria.co/AIDIT" //bebas
@@ -91,7 +90,7 @@ global.email = "masasih@gmail.com" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium_fitur = ["ai", "openai", "chatgpt"] //tambahin aja sendiri, soalnya gk semua org mau fiturnya premium jadi gw buat kyk gini aja, biar bisa custom fitur mana aja yang bakal di jadiin premium
-global.badword_list = ["asu","anjir","anj","anjay","anjrot","konto","kontol","bangsat","bangsad","bgst","bgsd"] //tambahin sendiri kata² nya, gunakan huruf kecil
+global.badword_list = ["asu","anjir","anj","anjay","anjrot","konto","kontol","bangsat","bangsad","bgst","bgsd","kon"] //tambahin sendiri kata² nya, gunakan huruf kecil
 global.premium = ['6285693460387','62895709850707'] //premium user
 global.owner = ["6285693460387","62881027432241","62895709850707"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285693460387" // nomor wa kalian
