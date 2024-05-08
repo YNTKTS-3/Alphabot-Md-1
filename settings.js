@@ -22,10 +22,9 @@ global.APIKeys = {
 }
 global.sewabotnya = `
 *SEWA BOT*
--> *Rp5.000/Bulan*
 -> *Rp10.000/3 Bulan*
 -> *Req berapa Bulan? Silahkan*
--> *Rp100.000 (boleh cicil, 0% bunga) = selamanya + klo bot ganti nomor ga usah bayar lagi. Kalo owner lupa, kalian bisa chatting ke owner*
+-> *Rp100.000 (boleh cicil, bunga 0%) = selamanya + klo bot ganti nomor ga usah bayar lagi. Kalo owner lupa, kalian bisa chatting ke owner*
 
 *Keuntungan Sewabot*
 -> *Fitur Grup Banyak*
