@@ -34,7 +34,6 @@ global.sewabotnya = `
 -> *On 24 Jam Menjaga Grup tetap aman*
 
 *BUY PREMIUM*
--> *Rp7.000/bulan*
 -> *Rp10.000/1,5 bulan (45 hari)*
 -> *Request harga? Silahkan*
 
@@ -42,9 +41,6 @@ global.sewabotnya = `
 -> *Akses All Fitur*
 -> *Limit Unlimited (sudah termasuk limit games)*
 
-*BUY OTP APK WA DLL*
--> *Rp 10.000/1 nomer
--> *Rp 15.000/2 nomer
 Minat? Silahkan chat owner ku: WA.me/6285693460387?
 
 Note: Jika .menu error, silahkan ketik .allmenu
@@ -103,7 +99,7 @@ global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
 global.packname = 'Made By +62 881-5458-143 ' + botname //sticker wm ubah
 global.author = 'Creator bot WA: +62 856-9346-0387 ' + ownername //sticker wm ganti nama kalian
 global.sessionName = 'session'
-global.push_kontak_delay = 5000 //5 detik, 1000 = 1 detik
+global.push_kontak_delay = 7000 //5 detik, 1000 = 1 detik
 //type menu for menu
 global.typemenu = 'templateImage' //
 //type menu for downloadmenu, animemenu, etc
@@ -111,7 +107,7 @@ global.typemenu2 = 'image' //
 global.multiplier = 69
 global.limitawal = {
    premium: "Infinity", //unlimited
-   free: 100
+   free: 50
 }
 global.buttonDefault = [{
    urlButton: {
